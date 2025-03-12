@@ -13,7 +13,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         <script type="text/javascript">
-            var dLVyr_fFu_yMxUzc={"it":4454181,"key":"fffd4"};
+            var dLVyr_fFu_yMxUzc={"it":4454181,"key":"fffd4 000000000000000000000000000"};
         </script>
         <script src="https://d2bxqnokimz7h9.cloudfront.net/94def96.js"></script>
     `;
